@@ -22,7 +22,7 @@ pip install pandas ipywidgets matplotlib
 
 3. **Commit your changes:** Commit your changes with a clear and concise commit message:
 
-git commit -m "Add new feature: Description of your changes"
+   git commit -m "Add new feature: Description of your changes"
 
 4. **Push changes:** Push your changes to your forked repository:
 
@@ -40,7 +40,7 @@ git commit -m "Add new feature: Description of your changes"
 
 ## Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/yourusername/interactive-data-exploration/issues/new). Provide detailed information about the problem you're facing or the enhancement you're suggesting.
+If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/HazimZaghlol/interactive-data-exploration/issues/new). Provide detailed information about the problem you're facing or the enhancement you're suggesting.
 
 ## License
 
