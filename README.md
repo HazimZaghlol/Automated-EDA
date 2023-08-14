@@ -30,7 +30,7 @@ With this tool, you can quickly load data, view data types, display summary stat
 
 1. Clone this repository to your local machine:
    
-git clone https://github.com/HazimZaghlol/interactive-data-exploration.git
+git clone https://github.com/HazimZaghlol/Interactive-Data-Exploration-Tool.git
 
 2. Install the required dependencies:
 
