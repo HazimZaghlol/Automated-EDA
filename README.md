@@ -1,4 +1,3 @@
-# Automated-EDA
 # Interactive Data Exploration Tool
 
 An interactive tool for loading, exploring, and visualizing data from CSV and Excel files using Python's Pandas library, IPython widgets, and Matplotlib.
