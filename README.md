@@ -34,7 +34,7 @@ git clone https://github.com/HazimZaghlol/Interactive-Data-Exploration-Tool.git
 
 2. Install the required dependencies:
 
-pip install pandas ipywidgets matplotlib
+pip install pandas ipywidgets matplotlib ipympl
 
 3. Open the Jupyter Notebook environment:
 
